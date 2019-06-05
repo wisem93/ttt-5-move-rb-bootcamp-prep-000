@@ -6,5 +6,5 @@ require_relative '../lib/move.rb'
 
 board = [" "," "," "," "," "," "," "," "," ",]
 puts "Welcome to Tic Tac Toe!"
-puts "please select use 1 - 9 to mark on the board"
+puts "Where would you like to go"
 
