@@ -3,3 +3,8 @@
 require_relative '../lib/move.rb'
 
 # Code your CLI Here
+
+board = [" "," "," "," "," "," "," "," "," ",]
+puts "Welcome to Tic Tac Toe!"
+puts "please select use 1 - 9 to mark on the board"
+
